@@ -1,5 +1,5 @@
-hello my name is
-i am
-i come from
+hello my name is Gun
+i am 26
+i come from Thailand
 i practice git skill.
 very hard fuckkk.
